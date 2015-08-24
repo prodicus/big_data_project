@@ -1,6 +1,6 @@
 ## Big Data Project
 
-## Restaurant Recommender
+#### Restaurant Recommender
 
 We are trying to build a restaurent recommender which will suggest you places according to the food you enter and the place you are currently in(the one you choose to)
 
