@@ -1,0 +1,2 @@
+pytesser (paper) : http://tesseract-ocr.googlecode.com/svn/trunk/doc/tesseracticdar2007.pdf
+training pytesser (code.google.com) : https://code.google.com/p/tesseract-ocr/wiki/TrainingTesseract3
