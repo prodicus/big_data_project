@@ -29,6 +29,14 @@ def main() :
 			#####    creating the required directory for the hotel  ######
 
 			img_dir_path = '/home/tasdik/Dropbox/projects/big_data_project/test/images/' + str(image_links_key)
+
+			''' 
+			making the following if condition so that if the directory is already there, skip making that 
+			particular directory.
+			'''
+			if os.path.exists(img_dir_path) : 
+				continue
+				
 			if not os.path.exists(img_dir_path) : 
 				os.makedirs(img_dir_path)
 
