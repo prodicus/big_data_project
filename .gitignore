@@ -1,6 +1,7 @@
 # Compiled source #
 ###################
 /test/*			
+/test/test_images/*
 ### the images inside this dir are not to be tracked 
 
 # File types#
