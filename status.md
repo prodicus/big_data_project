@@ -8,16 +8,16 @@
   * Date : 7-8-15
   	* "user_reviews_all"
   	   Scraped all the reviews of the restaurants in Bangalore and stored it in a dictionary with key-pair values as
-  		* review : <user review>
-  		* score : <out of 5>
-  		* hotel : <hotel_id>
-  		* title : <the title of the user review>
+  		* review : user review
+  		* score : out of 5
+  		* hotel : hotel_id
+  		* title : the title of the user review
   	* "user_ratings"
   	   Scraped the total rating of the restaurants and stored it in a dictionary with key-value pairs as 
-  		* rating : <rating given by user>
-  		* hotelname : <name>
-  		* hoteid : <id>
-  		* totalvotes : <number of users who have voted>
+  		* rating : rating given by user
+  		* hotelname : name
+  		* hoteid : id
+  		* totalvotes : number of users who have voted
   	* "image_cleansing"
   	   Cleansed the menu's of the restaurants according to dark and light images and then cleansed the images to greyscale
   	* "automation_scripts" :  wrote some scripts in this dir 
