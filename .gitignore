@@ -1,5 +1,6 @@
 # Compiled source #
 ###################
+/research_papers
 /test
 /test/*			
 /test/test_images/*
